@@ -1,0 +1,14 @@
+2026/06/16-17:57:00.623 17e8 Reusing MANIFEST C:\Users\hp\desktop\stannet-whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/16-17:57:00.624 17e8 Recovering log #118
+2026/06/16-17:57:00.712 17e8 Reusing old log C:\Users\hp\desktop\stannet-whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000118.log 
+2026/06/17-19:12:02.992 5d44 Level-0 table #127: started
+2026/06/17-19:12:03.169 5d44 Level-0 table #127: 1402603 bytes OK
+2026/06/17-19:12:03.179 5d44 Delete type=0 #118
+2026/06/17-19:12:03.238 5d44 Compacting 1@1 + 5@2 files
+2026/06/17-19:12:03.752 5d44 Generated table #128@1: 51720 keys, 2228168 bytes
+2026/06/17-19:12:04.013 5d44 Generated table #129@1: 16015 keys, 2182086 bytes
+2026/06/17-19:12:04.209 5d44 Generated table #130@1: 25656 keys, 2161618 bytes
+2026/06/17-19:12:04.846 5d44 Generated table #131@1: 92374 keys, 2242934 bytes
+2026/06/17-19:12:05.022 5d44 Generated table #132@1: 37494 keys, 997719 bytes
+2026/06/17-19:12:05.022 5d44 Compacted 1@1 + 5@2 files => 9812525 bytes
+2026/06/17-19:12:05.028 5d44 compacted to: files[ 0 0 5 0 0 0 0 ]
